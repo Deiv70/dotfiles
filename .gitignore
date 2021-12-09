@@ -1,2 +1,5 @@
 *.*
+!.gitignore
+!README.md
+
 !.config/kitty/kitty.conf
