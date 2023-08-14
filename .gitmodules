@@ -1,0 +1,3 @@
+[submodule ".config/kitty/dracula"]
+	path = .config/kitty/dracula
+	url = https://github.com/dracula/kitty
