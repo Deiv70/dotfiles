@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Visual Studio Code
+Comment=Code Editing. Redefined.
+GenericName=Text Editor
+Exec="/opt/vscode/bin/code" --unity-launch %F
+Icon=/opt/vscode/resources/app/resources/linux/code.png
+StartupNotify=false
+StartupWMClass=code
+Categories=TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;application/x-vscode-workspace;
+Keywords=vscode;
+Actions=new-window;
+
+[Desktop Action new-window]
+Name=Nueva Ventana
+Exec="/opt/vscode/bin/code" --new-window %F
+#Icon='/opt/vscode/resources/app/resources/linux/code.png'

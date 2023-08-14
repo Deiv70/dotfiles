@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GitKraken
+Icon=/opt/gitkraken/gitkraken.png
+Exec="/opt/gitkraken/resources/bin/gitkraken.sh"
+#Comment=Capable and Ergonomic IDE for JVM
+#Categories=
+Terminal=false
+StartupWMClass=gitkraken
+StartupNotify=true

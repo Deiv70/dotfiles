@@ -1,0 +1,10 @@
+[user]
+	signingkey = 32350223A06B49E9
+	name = David Gómez García
+	email = david.gomez.garcia.000@gmail.com
+[commit]
+	gpgsign = true
+[core]
+	editor = nano
+[tag]
+	forceSignAnnotated = true

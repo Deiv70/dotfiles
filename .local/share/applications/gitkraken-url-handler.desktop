@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=GitKraken - URL Handler
+#Comment=
+#GenericName=Text Editor
+Exec="/opt/gitkraken/resources/bin/gitkraken.sh" --uri %U
+Icon=/opt/gitkraken/gitkraken.png
+Type=Application
+NoDisplay=true
+StartupNotify=true
+#Categories=Utility;TextEditor;Development;IDE;
+MimeType=x-scheme-handler/gitkraken;
+Keywords=gitkraken;
