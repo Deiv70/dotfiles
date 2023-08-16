@@ -1,3 +1,13 @@
 [submodule ".config/kitty/dracula"]
 	path = .config/kitty/dracula
 	url = https://github.com/dracula/kitty
+[submodule ".icons/flat-remix"]
+	path = .icons/flat-remix
+	url = https://github.com/daniruiz/flat-remix
+[submodule ".themes/flat-remix-gtk"]
+	path = .themes/flat-remix-gtk
+	url = https://github.com/daniruiz/flat-remix-gtk
+[submodule ".themes/flat-remix-gnome"]
+	path = .themes/flat-remix-gnome
+	url = https://github.com/daniruiz/flat-remix-gnome
+	branch = 20230606
