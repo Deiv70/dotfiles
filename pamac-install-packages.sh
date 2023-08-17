@@ -11,7 +11,7 @@ pamac install linux linux-headers linux-api-headers dkms \
 	gst-plugin-pipewire gst-plugins-good \
 	dconf-editor sysprof d-spy gnome-boxes \
 	kitty \
-	timeshift cheese vlc libreoffice-{es,gl,pt} inkscape gimp discord \
+	timeshift timeshift-autosnap-manjaro gparted cheese vlc libreoffice-{es,gl,pt} inkscape gimp discord \
 	jdk17-openjdk maven \
 	iio-sensor-proxy
 
