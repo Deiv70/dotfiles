@@ -9,7 +9,7 @@ pamac install linux linux-headers linux-api-headers dkms \
 	libvirt lxd docker kubectl \
 	virtualbox virtualbox-host-dkms virt-manager qemu-desktop edk2-ovmf dnsmasq iptables-nft swtpm \
 	gst-plugin-pipewire gst-plugins-good \
-	dconf-editor sysprof d-spy gnome-boxes \
+	dconf-editor d-spy gnome-boxes \
 	kitty \
 	timeshift timeshift-autosnap-manjaro gparted cheese vlc libreoffice-{es,gl,pt} inkscape gimp discord \
 	jdk17-openjdk maven \
