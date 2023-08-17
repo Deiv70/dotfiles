@@ -1,1 +1,7 @@
 include /usr/share/nano-syntax-highlighting/*.nanorc
+
+set tabsize 4
+set linenumbers
+set autoindent
+set backup
+# set locking
