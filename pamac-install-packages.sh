@@ -4,6 +4,7 @@ sudo pacman -Syyu && pamac upgrade --force-refresh
 
 pamac install linux linux-headers linux-api-headers dkms \
 	base-devel cronie screen locate bat exa git jq btop glances \
+	noto-fonts-emoji ttf-firacode-nerd \
 	clamav \
 	nano nano-syntax-highlighting vim neovim \
 	libvirt lxd docker kubectl \
@@ -11,7 +12,7 @@ pamac install linux linux-headers linux-api-headers dkms \
 	gst-plugin-pipewire gst-plugins-good \
 	dconf-editor d-spy gnome-boxes \
 	kitty \
-	timeshift timeshift-autosnap-manjaro gparted cheese vlc libreoffice-{es,gl,pt} inkscape gimp discord \
+	psensor timeshift timeshift-autosnap-manjaro gparted cheese vlc libreoffice-{es,gl,pt} inkscape gimp discord \
 	jdk17-openjdk maven \
 	iio-sensor-proxy
 
