@@ -14,12 +14,12 @@ pamac install linux linux-headers linux-api-headers dkms \
 	kitty \
 	psensor timeshift timeshift-autosnap-manjaro gparted cheese vlc libreoffice-{es,gl,pt} inkscape gimp discord \
 	jdk17-openjdk maven \
-	iio-sensor-proxy
+	iio-sensor-proxy linux-firmware-qlogic
 
 pamac build \
 	google-chrome \
 	grub-theme-lenovo \
-	rtw89-dkms-git
+	rtw89-dkms-git upd72020x-fw wd719x-firmware aic94xx-firmware
 
 sudo usermod -aG libvirt,lxd,docker $USER
 
